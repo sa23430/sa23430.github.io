@@ -19,7 +19,7 @@ Energy Forecasting | Timeseries(SARIMA, VAR, TBATS)
 Effective forecasting of energy demands can allow us to test energy-efficient alternative heating/cooling methods and appliances.Our goal was to be able to accurately predict energy demands throughout the day based on seasonality, trend, and covariates like outside temperature and humidity.
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Picture1.jpg?raw=true"/>
 
 
 ---
