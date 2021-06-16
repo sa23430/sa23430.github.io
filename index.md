@@ -12,7 +12,13 @@ CORD-19 is a repository of over 500,000 scholarly articles about COVID-19, SARS-
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Forecast Daily Home Energy Demand](/pdf/sample_presentation.pdf)
+
+Energy Forecasting | Timeseries(SARIMA, VAR, TBATS)
+
+Effective forecasting of energy demands can allow us to test energy-efficient alternative heating/cooling methods and appliances.Our goal was to be able to accurately predict energy demands throughout the day based on seasonality, trend, and covariates like outside temperature and humidity.
+
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
