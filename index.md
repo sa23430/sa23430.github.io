@@ -28,10 +28,16 @@ Effective forecasting of energy demands can allow us to test energy-efficient al
 
 Market Segmentation | Clustering (Kmeans, Cluster-Regression)
 
-Cluster customers to predict spending score of an individual given their age, gender and income. We developed and compared several clustering algorithms to understand relationship between several features that drive the spending habits of an individual
+Cluster customers to predict spending score of an individual given their age, gender and income. Developed and compared several clustering algorithms to understand relationship between several features that drive the spending habits of an individual.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+[Credit Card Fraud Prevention ](http://example.com/)
 
+Fraud Analytics | (Random Forest, Gradient Boosting, Stacking)
+
+Detect fraudulent charges to enable early intervention, while minimizing customer engagement on non-fraudulent charges. Based on transactions data made by credit cards developed models that could classify transactions in to Fraud or Non-Fraud.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
