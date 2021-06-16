@@ -24,7 +24,12 @@ Effective forecasting of energy demands can allow us to test energy-efficient al
 
 
 ---
-[Project 3 Title](http://example.com/)
+[Mall Customer Segmentation ](http://example.com/)
+
+Market Segmentation | Clustering (Kmeans, Cluster-Regression)
+
+Cluster customers to predict spending score of an individual given their age, gender and income. We developed and compared several clustering algorithms to understand relationship between several features that drive the spending habits of an individual
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
