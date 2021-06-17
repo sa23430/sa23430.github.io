@@ -3,7 +3,17 @@
 ---
 
  
+[Forecast Daily Home Energy Demand](https://github.com/sa23430/Forecast_Daily_Home_Energy_Demand)
 
+Energy Forecasting | Timeseries(SARIMA, VAR, TBATS)
+
+Effective forecasting of energy demands can allow us to test energy-efficient alternative heating/cooling methods and appliances.Our goal was to be able to accurately predict energy demands throughout the day based on seasonality, trend, and covariates like outside temperature and humidity.
+
+
+<img src="images/Time.jpg?raw=true"/>
+
+
+---
 [Topic Modelling on COVID-19 Research Articles](https://github.com/sa23430/CORD19)
 
 Text Mining | NLP
@@ -13,17 +23,8 @@ CORD-19 is a repository of over 500,000 scholarly articles about COVID-19, SARS-
 <img src="images/covid.jpg?raw=true"/>
 
 ---
-[Forecast Daily Home Energy Demand](https://github.com/sa23430/Forecast_Daily_Home_Energy_Demand)
-
-Energy Forecasting | Timeseries(SARIMA, VAR, TBATS)
-
-Effective forecasting of energy demands can allow us to test energy-efficient alternative heating/cooling methods and appliances.Our goal was to be able to accurately predict energy demands throughout the day based on seasonality, trend, and covariates like outside temperature and humidity.
 
 
-<img src="images/Picture1.jpg?raw=true"/>
-
-
----
 [Mall Customer Segmentation ](https://github.com/sa23430/Cluster_Regression)
 
 Market Segmentation | Clustering (Kmeans, Cluster-Regression)
