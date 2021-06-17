@@ -34,7 +34,7 @@ Developed model to predict spending score of an individual given their age, gend
 
 ---
 
-[Credit Card Fraud Prevention ](http://example.com/)
+[Credit Card Fraud Prevention ](https://github.com/sa23430/Fraud_detection)
 
 Fraud Analytics | (Random Forest, Gradient Boosting, Stacking)
 
