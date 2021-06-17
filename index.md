@@ -28,7 +28,7 @@ Effective forecasting of energy demands can allow us to test energy-efficient al
 
 Market Segmentation | Clustering (Kmeans, Cluster-Regression)
 
-Developed model to predict spending score of an individual given their age, gender and income. 
+We developed model to predict spending score of an individual given their age, gender and income. 
 
 <img src="images/mall.jpg?raw=true"/>
 
