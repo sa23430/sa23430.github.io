@@ -13,7 +13,7 @@ CORD-19 is a repository of over 500,000 scholarly articles about COVID-19, SARS-
 <img src="images/covid.jpg?raw=true"/>
 
 ---
-[Forecast Daily Home Energy Demand](/pdf/sample_presentation.pdf)
+[Forecast Daily Home Energy Demand](https://github.com/sa23430/Forecast_Daily_Home_Energy_Demand)
 
 Energy Forecasting | Timeseries(SARIMA, VAR, TBATS)
 
