@@ -24,7 +24,7 @@ Effective forecasting of energy demands can allow us to test energy-efficient al
 
 
 ---
-[Mall Customer Segmentation ](http://example.com/)
+[Mall Customer Segmentation ](https://github.com/sa23430/Cluster_Regression)
 
 Market Segmentation | Clustering (Kmeans, Cluster-Regression)
 
